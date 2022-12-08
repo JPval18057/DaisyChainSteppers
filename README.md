@@ -1,4 +1,6 @@
 ![Arduino](https://img.shields.io/badge/Arduino-1.8.19-cyan)
+![PlatformIO](https://img.shields.io/badge/Arduino-6.1.5-blue)
+![UVG](https://img.shields.io/badge/UVG-2022-green)
 
 <p align="center">
   <img width="350" height="300" src="https://user-images.githubusercontent.com/78621543/206342583-1043299d-4261-4cf7-a4a7-8e4e1b751b6b.jpg">
