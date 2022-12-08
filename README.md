@@ -1,8 +1,6 @@
 ![Logo-vertical-verde_5a8b26cb76441](https://user-images.githubusercontent.com/78621543/206342583-1043299d-4261-4cf7-a4a7-8e4e1b751b6b.jpg)
 <p align="center">
-  <img width="460" height="300" src="[
-](https://user-images.githubusercontent.com/78621543/206342583-1043299d-4261-4cf7-a4a7-8e4e1b751b6b.jpg)">[
-](https://user-images.githubusercontent.com/78621543/206342583-1043299d-4261-4cf7-a4a7-8e4e1b751b6b.jpg)
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/78621543/206342583-1043299d-4261-4cf7-a4a7-8e4e1b751b6b.jpg">
 </p>
 # Diseño de un sistema de motores inteligentes para aplicaciones de robótica de alta precisión y desempeño
 
