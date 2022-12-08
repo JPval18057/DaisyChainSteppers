@@ -6,4 +6,4 @@ El presente repositorio contiene los códigos de las distintas iteraciones del d
 ![20221129_152512](https://user-images.githubusercontent.com/78621543/206339734-98f81ee5-94ad-4a6d-85bb-cdb4e313835c.jpg)
 
 # Antecedentes
-[Peter Yau](https://github.com/PeteAle/tesis)
+[Peter Yau (2021)](https://github.com/PeteAle/tesis)
