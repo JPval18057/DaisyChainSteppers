@@ -1,5 +1,5 @@
 ![Arduino](https://img.shields.io/badge/Arduino-1.8.19-cyan)
-![PlatformIO](https://img.shields.io/badge/Arduino-6.1.5-blue)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-6.1.5-blue)
 ![UVG](https://img.shields.io/badge/UVG-2022-green)
 
 <p align="center">
